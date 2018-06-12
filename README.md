@@ -6,7 +6,7 @@
 
 •	Python Basic Syntax
 
-python identifiers,reserve words,lines and indentations,multiline statements,quotation in python,comments,
+  python identifiers,reserve words,lines and indentations,multiline statements,quotation in python,comments,
 
 •	Parsing Command-Line Arguments
 
