@@ -5,7 +5,10 @@
 •	Python Environment
 
 •	Python Basic Syntax
-  python identifiers,reserve words,lines and indentations,multiline statements,Quotation in python,comments,
+
+1.	python identifiers,reserve words
+2.	lines and indentations,multiline statements
+3.	quotation in python,comments
 
 •	Parsing Command-Line Arguments
 
