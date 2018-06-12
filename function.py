@@ -1,5 +1,3 @@
-Python 3.6.5 (v3.6.5:f59c0932b4, Mar 28 2018, 16:07:46) [MSC v.1900 32 bit (Intel)] on win32
-Type "copyright", "credits" or "license()" for more information.
 >>> dict={'Name':'sam','class':'what'}
 >>> print(dict)
 {'Name': 'sam', 'class': 'what'}
@@ -49,9 +47,7 @@ class what
 >>> for n in dict.items()
 SyntaxError: invalid syntax
 >>> for n in dict.items():
-        print(n)
-
-        
+        print(n)        
 ('Name', 'sam')
 ('class', 'what')
 >>> import time
@@ -67,16 +63,7 @@ time.struct_time(tm_year=2018, tm_mon=6, tm_mday=12, tm_hour=17, tm_min=4, tm_se
 'Tue Jun 12 17:04:44 2018'
 >>> time.localtime().tm_isdst
 0
->>> time.localtime().tm_isist
-Traceback (most recent call last):
-  File "<pyshell#35>", line 1, in <module>
-    time.localtime().tm_isist
-AttributeError: 'time.struct_time' object has no attribute 'tm_isist'
->>> time.localtime().tm_isdst
-0
 >>> import calendar
->>> calendar.month(2018,6)
-'     June 2018\nMo Tu We Th Fr Sa Su\n             1  2  3\n 4  5  6  7  8  9 10\n11 12 13 14 15 16 17\n18 19 20 21 22 23 24\n25 26 27 28 29 30\n'
 >>> print(calendar.month(2018,6))
      June 2018
 Mo Tu We Th Fr Sa Su
@@ -89,30 +76,13 @@ Mo Tu We Th Fr Sa Su
 >>> import time
 >>> for n in range(5):
 	print(n)
-	time.sleep(2)
-
-	
+	time.sleep(2)	
 0
 1
 2
 3
 4
 
->>> def funame():
-	print('python')
-    funame()
-    
-SyntaxError: unindent does not match any outer indentation level
->>> def funame():
-	print('python')
-        funame()
-        
-SyntaxError: inconsistent use of tabs and spaces in indentation
->>> def funame():
-       print('python')
-    funame()
-    
-SyntaxError: unindent does not match any outer indentation level
 >>> def add(a,b):
 	return(a+b)
 
@@ -136,4 +106,4 @@ b: 4
 >>> x=add(1,2,3,4,5,6,7)
 >>> print(x)
 28
->>> 
+ 
