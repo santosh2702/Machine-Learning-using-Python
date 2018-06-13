@@ -73,6 +73,16 @@ SyntaxError: invalid syntax
 	
 >>> max(2,4,7)
 7
+#some decorator functions#
+>>>def p decorate(func):
+        def func wrapper(name):
+                Return “<p>{0}</p>”.format(func(name))
+         Return func wrapper
+>>>@p decorate
+>>>def get text(name):
+        Return “lorem ipsum,{0} dolor sit amet”.format(name)
+>>>get text(“john”)
+
 
 
 
