@@ -30,3 +30,6 @@ Mo Tu We Th Fr Sa Su
 2
 3
 4
+import calendar
+print(calendar.month(2018,6))
+
