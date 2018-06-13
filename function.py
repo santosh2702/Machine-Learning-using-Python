@@ -84,6 +84,28 @@ SyntaxError: invalid syntax
 >>>get text(“john”)
 
 
+#funtions using some parameters in the nested functions
+
+def greet(name):
+	return "Hello" + name
+def cell_func(func):
+	other_name="john"
+	return func(other_name)
+call_func(greet)
+
+
+#more
+
+def compose_greet_func():
+	print('2')
+	def get_message():
+		return "Hello there"
+	return get_message
+greet=compose_greet_func()
+print('1')
+print(greet())
+
+
 
 
 
