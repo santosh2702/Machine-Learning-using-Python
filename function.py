@@ -21,4 +21,61 @@ b: 4
 >>> x=add(1,2,3,4,5,6,7)
 >>> print(x)
 28
+
+
+#some more functions#
+def fullName(firstname,lastname):
+	return "{} {}".format(firstname,lastname)
+
+
+#for printing number with incremented form:#
+def inc(n,n2=1):
+	return n+n2
+
+
+
+#for printing the details in list form of a employee:#
+def empinfo(x):
+	s=x.split('-')
+	print('name',([0]))
+	print('fullname',([1]))
+	print('phonenumber',([2]))
+	print('mailId',([3]))
+empinfo('santosh-sjdfh-9876549-singh.santosh2702@gmail.com')
+#output:#
+name [0]
+fullname [1]
+phonenumber [2]
+mailId [3]
+
+#using conditional for printing the largest number:#
+def max(a,b,c):
+	if a>b and a>c:
+		return b
+	elif b>c:
+		return b
+	else:
+		return c
+
+
+#Nested function:#
+>>>def greet(name):
+	def get_message():
+	    return "hello"
+	result=get_message()+name
+	return result
+
+>>> print greet("john")	
+SyntaxError: invalid syntax
+>>> greet("john")
+'hellojohn'
+
+	
+>>> max(2,4,7)
+7
+
+
+
+
+
  
