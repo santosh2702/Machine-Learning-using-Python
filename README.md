@@ -1,5 +1,5 @@
 # Machine-Learning-using-Python
-![download](https://user-images.githubusercontent.com/29937202/41247261-168dbfe2-6dcb-11e8-8f59-34c4e325a8a2.jpg)
+![machine-learning-with-python](https://user-images.githubusercontent.com/29937202/41456775-21aecb7e-709f-11e8-8734-2f9baa51cc72.png)
 # Contents
 ~~~
 •	Python Environment
