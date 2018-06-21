@@ -29,3 +29,15 @@
 •	Python Date and Time
 
 •	Python Functions
+
+•	Python Error and Exceptions
+
+•	Python Modules
+
+•	File Handling
+
+•	Regular Expression
+
+•	Os Modules in Python
+
+•	ML Intro (Pandas,Numpy,Matplotlib)
