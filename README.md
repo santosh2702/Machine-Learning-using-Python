@@ -41,3 +41,5 @@
 •	Os Modules in Python
 
 •	ML Intro (Pandas,Numpy,Matplotlib)
+
+•	Object Oriented Programming in Python
