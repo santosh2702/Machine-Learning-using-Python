@@ -2,44 +2,44 @@
 ![machine-learning-with-python](https://user-images.githubusercontent.com/29937202/41456775-21aecb7e-709f-11e8-8734-2f9baa51cc72.png)
 # Contents
 ~~~
-•	Python Environment
+ 
 
-•	Python Basic Syntax
+•Python Basic Syntax
 
-1.	python identifiers,reserve words
-2.	lines and indentations,multiline statements
-3.	quotation in python,comments
+1.python identifiers,reserve words
+2.lines and indentations,multiline statements
+3.quotation in python,comments
 
-•	Parsing Command-Line Arguments
+•Parsing Command-Line Arguments
 
-•	Python Variable Type
+•Python Variable Type
 
-•	Python Basic Operators
+•Python Basic Operators
 
-•	Python Decision Making
+•Python Decision Making
 
-•	Python Loops
+•Python Loops
 
-•	Python List
+•Python List
 
-•	Python Tuples
+•Python Tuples
 
-•	Python Dictionary
+•Python Dictionary
 
-•	Python Date and Time
+•Python Date and Time
 
-•	Python Functions
+•Python Functions
 
-•	Python Error and Exceptions
+•Python Error and Exceptions
 
-•	Python Modules
+•Python Modules
 
-•	File Handling
+•File Handling
 
-•	Regular Expression
+•Regular Expression
 
-•	Os Modules in Python
+•Os Modules in Python
 
-•	ML Intro (Pandas,Numpy,Matplotlib)
+•ML Intro (Pandas,Numpy,Matplotlib)
 
-•	Object Oriented Programming in Python
+•Object Oriented Programming in Python
