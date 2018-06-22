@@ -1,6 +1,8 @@
 # Machine-Learning-using-Python
 ![machine-learning-with-python](https://user-images.githubusercontent.com/29937202/41456775-21aecb7e-709f-11e8-8734-2f9baa51cc72.png)
-# Contents
+
+#### *Machine learning is a field that uses algorithms to learn from data and make predictions. Practically, this means that we can feed data into an algorithm, and use it to make predictions about what might happen in the future. This has a vast range of applications, from self-driving cars to stock price prediction. Not only is machine learning interesting, it's also starting to be widely used, making it an extremely practical skill to learn.
+#### Contents
 ~~~
  
 •Python Basic Syntax
