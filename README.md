@@ -22,17 +22,19 @@ Python has an amazing ecosystem of libraries that make machine learning easy to 
 •Python Tuples
 •Python Dictionary
 ### [Python Date and Time](https://github.com/sam2702/Machine-Learning-using-Python/blob/master/Python%20Date%20and%20Time.py)
-
+***
 A Python program can handle date and time in several ways. Converting between date formats is a common chore for computers. Python's time and calendar modules help track dates and times.
+***
 
 •Python Functions
 •Python Error and Exceptions
 •Python Modules
-### [File Handling](https://github.com/sam2702/Machine-Learning-using-Python/blob/master/IPYNB/File%20handling.ipynb)
 
+### [File Handling](https://github.com/sam2702/Machine-Learning-using-Python/blob/master/IPYNB/File%20handling.ipynb)
+***
 Until now, you have been reading and writing to the standard input and output. Now, we will see how to use actual data files.
 Python provides basic functions and methods necessary to manipulate files by default. You can do most of the file manipulation using a file object.
-
+***
 ### [Regular Expression](https://github.com/sam2702/Machine-Learning-using-Python/blob/master/IPYNB/Regular%2Bexpression.ipynb)
 
 •Os Modules in Python
