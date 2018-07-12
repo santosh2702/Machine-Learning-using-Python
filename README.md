@@ -5,7 +5,7 @@ Machine learning is a field that uses algorithms to learn from data and make pre
 Python has an amazing ecosystem of libraries that make machine learning easy to get started with.like scikit-learn, Pandas, and Matplotlib libraries
 ***
 ***
-#### [Contents](https://github.com/sam2702/Machine-Learning-using-Python)
+## [Contents](https://github.com/sam2702/Machine-Learning-using-Python)
 ***
 
 ### 1.[Python Basic Syntax](https://github.com/sam2702/Machine-Learning-using-Python)
@@ -25,8 +25,6 @@ Python has an amazing ecosystem of libraries that make machine learning easy to 
 •Python Dictionary
 ***
 ### 2.[Python Date and Time](https://github.com/sam2702/Machine-Learning-using-Python/blob/master/Python%20Date%20and%20Time.py)
-***
-***
 A Python program can handle date and time in several ways. Converting between date formats is a common chore for computers. Python's time and calendar modules help track dates and times.
 ***
 ***
@@ -40,8 +38,6 @@ A Python program can handle date and time in several ways. Converting between da
 ***
 ***
 ### 6.[File Handling](https://github.com/sam2702/Machine-Learning-using-Python/blob/master/IPYNB/File%20handling.ipynb)
-***
-***
 Until now, you have been reading and writing to the standard input and output. Now, we will see how to use actual data files.
 Python provides basic functions and methods necessary to manipulate files by default. You can do most of the file manipulation using a file object.
 ***
