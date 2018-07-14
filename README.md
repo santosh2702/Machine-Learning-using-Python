@@ -29,12 +29,15 @@ A Python program can handle date and time in several ways. Converting between da
 ***
 ***
 ### 3.[Python Functions](https://github.com/sam2702/Machine-Learning-using-Python/blob/master/function.py)
+A function is a block of code which only runs when it is called.You can pass data, known as parameters, into a function.A function can return data as a result.In Python a function is defined using the def keyword:
 ***
 ***
 ### 4.[Python Error and Exceptions](https://github.com/sam2702/Machine-Learning-using-Python/tree/master/Exceptions)
 ***
 ***
 ### 5.[Python Modules](https://github.com/sam2702/Machine-Learning-using-Python/blob/master/IPYNB/Module.ipynb)
+Consider a module to be the same as a code library.A file containing a set of functions you want to include in your application.
+To create a module just save the code you want in a file with the file extension .py
 ***
 ***
 ### 6.[File Handling](https://github.com/sam2702/Machine-Learning-using-Python/blob/master/IPYNB/File%20handling.ipynb)
