@@ -5,7 +5,7 @@ Machine learning is a field that uses algorithms to learn from data and make pre
 Python has an amazing ecosystem of libraries that make machine learning easy to get started with.like scikit-learn, Pandas, and Matplotlib libraries
 ***
 ***
-## [Contents](https://github.com/sam2702/Machine-Learning-using-Python)
+## [Contents:](https://github.com/sam2702/Machine-Learning-using-Python)
 ***
 
 ### 1.[Python Basic Syntax](https://github.com/sam2702/Machine-Learning-using-Python)
@@ -15,6 +15,7 @@ Python has an amazing ecosystem of libraries that make machine learning easy to 
 2.lines and indentations,multiline statements
 3.quotation in python,comments
 ```
+```
 •Parsing Command-Line Arguments
 •Python Variable Type
 •Python Basic Operators
@@ -23,6 +24,7 @@ Python has an amazing ecosystem of libraries that make machine learning easy to 
 •Python List
 •Python Tuples
 •Python Dictionary
+```
 ***
 ### 2.[Python Date and Time](https://github.com/sam2702/Machine-Learning-using-Python/blob/master/Python%20Date%20and%20Time.py)
 A Python program can handle date and time in several ways. Converting between date formats is a common chore for computers. Python's time and calendar modules help track dates and times.
