@@ -48,8 +48,7 @@ Python provides basic functions and methods necessary to manipulate files by def
 ***
 ***
 ### 7.[Regular Expression](https://github.com/sam2702/Machine-Learning-using-Python/blob/master/IPYNB/Regular%2Bexpression.ipynb)
-***
-
+A regular expression is a special sequence of characters that helps you match or find other strings or sets of strings, using a specialized syntax held in a pattern. Regular expressions are widely used in UNIX world.
 ***
 ### 8.[Os Modules in Python](https://github.com/sam2702/Machine-Learning-using-Python/blob/master/IPYNB/OS%2BModule.ipynb)
 The OS module in Python provides a way of using operating system dependent functionality.
@@ -62,4 +61,5 @@ Similar to NumPy, Pandas is one of the most widely used python libraries in data
 Matplotlib is a 2d plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments. Matplotlib can be used in Python scripts, Python and IPython shell, Jupyter Notebook, web application servers and GUI toolkits.
 ***
 ### 10.[Object Oriented Programming in Python](https://github.com/sam2702/Machine-Learning-using-Python/tree/master/OOPs)
+Object-oriented programming is a programming paradigm based on the concept of "objects", which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.
 ***
