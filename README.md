@@ -35,6 +35,7 @@ A function is a block of code which only runs when it is called.You can pass dat
 ***
 ***
 ### 4.[Python Error and Exceptions](https://github.com/sam2702/Machine-Learning-using-Python/tree/master/Exceptions)
+Until now error messages haven’t been more than mentioned, but if you have tried out the examples you have probably seen some. There are (at least) two distinguishable kinds of errors: syntax errors and exceptions.
 ***
 ***
 ### 5.[Python Modules](https://github.com/sam2702/Machine-Learning-using-Python/blob/master/IPYNB/Module.ipynb)
