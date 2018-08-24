@@ -26,6 +26,7 @@ Python has an amazing ecosystem of libraries that make machine learning easy to 
 •Python Dictionary
 ```
 ***
+***
 ### 2.[Python Date and Time](https://github.com/sam2702/Machine-Learning-using-Python/blob/master/Python%20Date%20and%20Time.py)
 A Python program can handle date and time in several ways. Converting between date formats is a common chore for computers. Python's time and calendar modules help track dates and times.
 ***
@@ -51,8 +52,10 @@ Python provides basic functions and methods necessary to manipulate files by def
 ### 7.[Regular Expression](https://github.com/sam2702/Machine-Learning-using-Python/blob/master/IPYNB/Regular%2Bexpression.ipynb)
 A regular expression is a special sequence of characters that helps you match or find other strings or sets of strings, using a specialized syntax held in a pattern. Regular expressions are widely used in UNIX world.
 ***
+***
 ### 8.[Os Modules in Python](https://github.com/sam2702/Machine-Learning-using-Python/blob/master/IPYNB/OS%2BModule.ipynb)
 The OS module in Python provides a way of using operating system dependent functionality.
+***
 ***
 ### 9.[ML Intro (Pandas,Numpy,Matplotlib)](https://github.com/sam2702/Machine-Learning-using-Python/tree/master/ML)
 NumPy stands for ‘Numerical Python’ or ‘Numeric Python’. It is an open source module of Python which provides fast mathematical computation on arrays and matrices.
@@ -61,6 +64,8 @@ Similar to NumPy, Pandas is one of the most widely used python libraries in data
 
 Matplotlib is a 2d plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments. Matplotlib can be used in Python scripts, Python and IPython shell, Jupyter Notebook, web application servers and GUI toolkits.
 ***
+***
 ### 10.[Object Oriented Programming in Python](https://github.com/sam2702/Machine-Learning-using-Python/tree/master/OOPs)
 Object-oriented programming is a programming paradigm based on the concept of "objects", which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.
+***
 ***
