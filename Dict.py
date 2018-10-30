@@ -1,4 +1,5 @@
->>> dict={'Name':'sam','class':'what'}
+>>>#how we can write dictionary program in python....
+dict={'Name':'sam','class':'what'}
 >>> print(dict)
 {'Name': 'sam', 'class': 'what'}
 >>> del dict['Name'];
