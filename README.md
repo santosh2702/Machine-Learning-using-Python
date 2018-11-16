@@ -5,7 +5,7 @@ Machine learning is a field that uses algorithms to learn from data and make pre
 Python has an amazing ecosystem of libraries that make machine learning easy to get started with.like scikit-learn, Pandas, and Matplotlib libraries
 ***
 ***
-## [Contents:](https://github.com/sam2702/Machine-Learning-using-Python)
+## [Contents](https://github.com/sam2702/Machine-Learning-using-Python)
 ***
 
 ### 1.[Python Basic Syntax](https://github.com/sam2702/Machine-Learning-using-Python)
