@@ -19,12 +19,7 @@ while True:
     #conn.send("Server saying hi")
     conn.close()
 
-
-# ## client
-
-# In[ ]:
-
-
+# client
 import socket
 s=socket.socket()
 host=socket.gethostname()
